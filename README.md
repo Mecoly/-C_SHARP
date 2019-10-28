@@ -6,3 +6,4 @@
 * [文件操作](note/文件操作.md)
 - WPF
 * [WPF应用程序](note/WPF应用程序.md)
+* [数据库连接](note/数据库连接.md)
