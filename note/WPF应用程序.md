@@ -41,4 +41,20 @@ Owner属性
 
 ## 事件
 ### 鼠标事件
+Click MouseDown MouseUp MouseMove MouseWheel MouseEnter MouseLeave
 ### 键盘事件
+KeyDown KeyUp GotKeyboardFocus LostKeyboardFocus
+## 控件
+### 布局控件
+|控件|功能|
+|:-:|:-:|
+|Grid|网格|
+|StackPanel|堆叠面板|
+|Canvas|画布|
+### 基本控件
+|控件|功能|
+|:-:|:-:|
+|Button|按钮|
+|TextBlock|文本块|
+|Label|标签|
+
